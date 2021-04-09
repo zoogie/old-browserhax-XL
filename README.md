@@ -7,7 +7,7 @@
 
 ## Intro
 
-Old-browserhax-XL is another primary userland exploit for the old3ds browser, Spider. It's the successor to [old-browserhax](https://github.com/zoogie/old-browserhax), which was murdured by firmware 11.14. RIP.
+Old-browserhax-XL is another primary userland exploit for the old3ds browser, Spider. It's the successor to [old-browserhax](https://github.com/zoogie/old-browserhax), which was murdered by firmware 11.14. RIP.
 
 ## What's needed
 
