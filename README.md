@@ -51,5 +51,5 @@ A: The https://3ds.hacks.guide already has a good free method for these regions 
 Q: Will this exploit be fixed in a firmware update?<br>
 A: Last time I suggested about 50% odds new-browserhax being fixed which turned out to be 100% odds. So I guess that means we average those two and get a 75% chance of it being fixed this time :p<br>I really don't know.
 
-Q: Will this work with [unSAFE_MODE](https://github.com/zoogie/unSAFE_MODE) and [AGBhax](https://github.com/TuxSH/universal-otherapp)?
+Q: Will this work with [unSAFE_MODE](https://github.com/zoogie/unSAFE_MODE) and [AGBhax](https://github.com/TuxSH/universal-otherapp)?<br>
 A: Works for me! The directions for these exploit chains are out of scope for this readme though.
