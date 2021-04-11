@@ -13,7 +13,7 @@ Old-browserhax-XL is another primary userland exploit for the old3ds browser, Sp
 
 An old3ds (or old2ds) on firmware:<br>
 ```
-11.14.0-46 on regions US,EU,JP
+11.14.0-46 on regions US,EU,JP,KR
 ```
 
 ## Directions (hbmenu)
@@ -45,9 +45,6 @@ Solution: Go to your browser's settings and select Clear History and Delete Cook
 
 
 ## FAQ
-Q: Will you support the other 3 smaller regions (Korea, China, Taiwan)?<br>
-A: The https://3ds.hacks.guide already has a good free method for these regions in safecerthax, so I don't plan on porting right now.
-
 Q: Will this exploit be fixed in a firmware update?<br>
 A: Last time I suggested about 50% odds new-browserhax being fixed which turned out to be 100% odds. So I guess that means we average those two and get a 75% chance of it being fixed this time :p<br>I really don't know.
 
