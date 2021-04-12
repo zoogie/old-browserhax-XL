@@ -13,7 +13,7 @@ Old-browserhax-XL is another primary userland exploit for the old3ds browser, Sp
 
 An old3ds (or old2ds) on firmware:<br>
 ```
-11.14.0-46 on regions US,EU,JP,KR
+11.14.0-46 on regions US,EU,JP,KR,CH,TW
 ```
 
 ## Directions (hbmenu)
@@ -21,6 +21,11 @@ An old3ds (or old2ds) on firmware:<br>
 2) Place the homebrew launcher boot.3dsx from [here](https://github.com/fincs/new-hbmenu/releases/tag/v2.2.0) also on the root of your sd card.
 3) With wifi on and working, scan [this QR](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fzoogie.github.io%2Fweb%2Fnbhax&qzone=1&margin=0&size=400x400&ecc=L) after pressing L+R should buttons together and tapping the QR button on the bottom screen. The link to the sploit page is https://zoogie.github.io/web/nbhax if you want to type it in manually and/or bookmark it.
 4) Click on the "PROCEED TO HAXX" button, then press A twice to confirm two pop-ups. The exploit should then load the homebrew menu. Make sure to add homebrews to the sdmc:/3ds folder first in order to have something to run. See other guides online about what you can do with homebrew.
+
+- Note that CH & TW regions cannot run hbmenu homebrew. Only cfw options like AGBhax are possible with these regions. This is a limitation of the *hax homebrew environment, not this exploit.
+
+## Directions (boot9strap, aka cfw)
+https://3ds.hacks.guide (coming soon, probably)
 
 ## Exploit details
 
